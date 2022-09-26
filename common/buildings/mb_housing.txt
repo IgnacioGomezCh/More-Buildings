@@ -1,0 +1,51 @@
+#Cloud
+mb_cloud_1 = {
+	base_buildtime = 300
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_cloud_2 = {
+	base_buildtime = 300
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_cloud_3 = {
+	base_buildtime = 300
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
