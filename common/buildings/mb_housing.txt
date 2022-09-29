@@ -1,6 +1,6 @@
 #Cloud
 mb_cloud_1 = {
-	base_buildtime = 300
+	base_buildtime = 1
 	category = amenity
 
 	resources = {
@@ -17,7 +17,7 @@ mb_cloud_1 = {
 }
 
 mb_cloud_2 = {
-	base_buildtime = 300
+	base_buildtime = 1
 	category = amenity
 
 	resources = {
@@ -34,7 +34,398 @@ mb_cloud_2 = {
 }
 
 mb_cloud_3 = {
-	base_buildtime = 300
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_1 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_2 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_3 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_4 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_5 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_green_1 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_green_2 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_green_3 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_green_4 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_apartments_green_5 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_lotus_1 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_lotus_2 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_lotus_3 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_lotus_new_1 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_lotus_new_2 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_lotus_new_3 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_portal_1 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_station_1 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_station_2 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_vault_1 = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_ancient_temple = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_sun_temple = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		cost = {
+			minerals = 2500
+			sr_dark_matter = 10
+		}
+		upkeep = {
+			energy = 20
+			sr_dark_matter = 1
+		}
+	}
+}
+
+mb_void_temple = {
+	base_buildtime = 1
 	category = amenity
 
 	resources = {
