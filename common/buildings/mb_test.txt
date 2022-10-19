@@ -1,0 +1,335 @@
+mb_chapel_1 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_chapel_2 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_chapel_3 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_police_station_1 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_police_station_2 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_police_station_3 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_flower_tower_1 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_flower_tower_2 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_nuclear_power = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_physics_research_lab_1 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_physics_research_lab_2 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_science_research_lab_1 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_science_research_lab_2 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_refinery_1 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_refinery_2 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_refinery_3 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_tinyaki_tank = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_superdense_resource_silo_1 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_superdense_resource_silo_2 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_superdense_resource_silo_3 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_superdense_resource_silo_4 = {
+	base_buildtime = 1
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}

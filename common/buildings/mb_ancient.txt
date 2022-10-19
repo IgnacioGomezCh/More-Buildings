@@ -1,5 +1,22 @@
-#Cloud
-mb_cloud_1 = {
+mb_ancient_temple = {
+	base_buildtime = 1
+	category = amenity
+
+	resources = {
+		category = planet_buildings
+		produces = {
+			trigger = { exists = owner }
+			unity = 1
+			multiplier = owner.trigger:num_ascension_perks
+		}
+		cost = {
+			minerals = 1000
+            alloy = 500
+		}
+	}
+}
+
+mb_sun_temple = {
 	base_buildtime = 1
 	category = amenity
 
@@ -16,7 +33,7 @@ mb_cloud_1 = {
 	}
 }
 
-mb_cloud_2 = {
+mb_void_temple = {
 	base_buildtime = 1
 	category = amenity
 
@@ -33,7 +50,7 @@ mb_cloud_2 = {
 	}
 }
 
-mb_cloud_3 = {
+mb_crystal_tree_1 = {
 	base_buildtime = 1
 	category = amenity
 
@@ -50,7 +67,7 @@ mb_cloud_3 = {
 	}
 }
 
-mb_apartments_green_1 = {
+mb_crystal_tree_2 = {
 	base_buildtime = 1
 	category = amenity
 
@@ -67,7 +84,7 @@ mb_apartments_green_1 = {
 	}
 }
 
-mb_apartments_green_2 = {
+mb_crystal_tree_3 = {
 	base_buildtime = 1
 	category = amenity
 
@@ -84,7 +101,7 @@ mb_apartments_green_2 = {
 	}
 }
 
-mb_apartments_green_3 = {
+mb_crystal_tower = {
 	base_buildtime = 1
 	category = amenity
 
@@ -101,7 +118,7 @@ mb_apartments_green_3 = {
 	}
 }
 
-mb_apartments_green_4 = {
+mb_atmospheric_defense_system = {
 	base_buildtime = 1
 	category = amenity
 
@@ -118,7 +135,7 @@ mb_apartments_green_4 = {
 	}
 }
 
-mb_apartments_green_5 = {
+mb_toxin_processing_system_1 = {
 	base_buildtime = 1
 	category = amenity
 
@@ -135,7 +152,7 @@ mb_apartments_green_5 = {
 	}
 }
 
-mb_apartments_1 = {
+mb_toxin_processing_system_2 = {
 	base_buildtime = 1
 	category = amenity
 
@@ -152,7 +169,7 @@ mb_apartments_1 = {
 	}
 }
 
-mb_apartments_2 = {
+mb_toxin_processing_system_3 = {
 	base_buildtime = 1
 	category = amenity
 
@@ -169,7 +186,7 @@ mb_apartments_2 = {
 	}
 }
 
-mb_apartments_3 = {
+mb_purification_tower_green_1 = {
 	base_buildtime = 1
 	category = amenity
 
@@ -186,160 +203,7 @@ mb_apartments_3 = {
 	}
 }
 
-mb_apartments_4 = {
-	base_buildtime = 1
-	category = amenity
-
-	resources = {
-		category = planet_buildings
-		cost = {
-			minerals = 2500
-			sr_dark_matter = 10
-		}
-		upkeep = {
-			energy = 20
-			sr_dark_matter = 1
-		}
-	}
-}
-
-mb_apartments_5 = {
-	base_buildtime = 1
-	category = amenity
-
-	resources = {
-		category = planet_buildings
-		cost = {
-			minerals = 2500
-			sr_dark_matter = 10
-		}
-		upkeep = {
-			energy = 20
-			sr_dark_matter = 1
-		}
-	}
-}
-
-mb_lotus_new_1 = {
-	base_buildtime = 1
-	category = amenity
-
-	resources = {
-		category = planet_buildings
-		cost = {
-			minerals = 2500
-			sr_dark_matter = 10
-		}
-		upkeep = {
-			energy = 20
-			sr_dark_matter = 1
-		}
-	}
-}
-
-mb_lotus_new_2 = {
-	base_buildtime = 1
-	category = amenity
-
-	resources = {
-		category = planet_buildings
-		cost = {
-			minerals = 2500
-			sr_dark_matter = 10
-		}
-		upkeep = {
-			energy = 20
-			sr_dark_matter = 1
-		}
-	}
-}
-
-mb_lotus_new_3 = {
-	base_buildtime = 1
-	category = amenity
-
-	resources = {
-		category = planet_buildings
-		cost = {
-			minerals = 2500
-			sr_dark_matter = 10
-		}
-		upkeep = {
-			energy = 20
-			sr_dark_matter = 1
-		}
-	}
-}
-
-mb_portal_1 = {
-	base_buildtime = 1
-	category = amenity
-
-	resources = {
-		category = planet_buildings
-		cost = {
-			minerals = 2500
-			sr_dark_matter = 10
-		}
-		upkeep = {
-			energy = 20
-			sr_dark_matter = 1
-		}
-	}
-}
-
-mb_vault_1 = {
-	base_buildtime = 1
-	category = amenity
-
-	resources = {
-		category = planet_buildings
-		cost = {
-			minerals = 2500
-			sr_dark_matter = 10
-		}
-		upkeep = {
-			energy = 20
-			sr_dark_matter = 1
-		}
-	}
-}
-
-mb_mannor_1 = {
-	base_buildtime = 1
-	category = amenity
-
-	resources = {
-		category = planet_buildings
-		cost = {
-			minerals = 2500
-			sr_dark_matter = 10
-		}
-		upkeep = {
-			energy = 20
-			sr_dark_matter = 1
-		}
-	}
-}
-
-mb_mannor_2 = {
-	base_buildtime = 1
-	category = amenity
-
-	resources = {
-		category = planet_buildings
-		cost = {
-			minerals = 2500
-			sr_dark_matter = 10
-		}
-		upkeep = {
-			energy = 20
-			sr_dark_matter = 1
-		}
-	}
-}
-
-mb_sky_palace = {
+mb_purification_tower_green_2 = {
 	base_buildtime = 1
 	category = amenity
 
